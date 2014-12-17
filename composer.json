@@ -11,9 +11,6 @@
     "require": {
         "php": ">=5.2.11"
     },
-    "repositories": [
-        { "type": "vcs", "url": "http://github.com/proakd/zf1" }
-    ],
     "autoload": {
         "psr-0": {
             "Zend_": "library/"
